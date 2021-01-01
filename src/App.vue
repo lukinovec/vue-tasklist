@@ -1,8 +1,5 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div>
+  <h1 class="font-bold text-lg p-2">Never forget your duties again.</h1>
   <router-view />
 </template>
 
